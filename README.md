@@ -1,5 +1,5 @@
 <!-- The image source URL in the first <img> tag had an extra "https:" -->
-<img src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif" alt="MasterHead">
+<img width="match_parent" src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif" alt="MasterHead">
 
 <h1 align="center">Hi 👋, I'm Samarth Shendre</h1>
 <h3 align="center">A passionate cyber security enthusiast from India</h3>
