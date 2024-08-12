@@ -1,4 +1,4 @@
-[![MasterHead](https:https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif)
+![MasterHead](https:https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif)
 <h1 align="center">Hi 👋, I'm Samarth Shendre</h1>
 <h3 align="center">A passionate cyber security enthisiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://ecard.link/content/card/animated_gif1780.gif">
