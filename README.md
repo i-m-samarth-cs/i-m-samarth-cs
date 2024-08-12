@@ -1,7 +1,12 @@
-![MasterHead](https:https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif)
+<!-- The image source URL in the first <img> tag had an extra "https:" -->
+<img src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif" alt="MasterHead">
+
 <h1 align="center">Hi 👋, I'm Samarth Shendre</h1>
-<h3 align="center">A passionate cyber security enthisiast from India</h3>
+<h3 align="center">A passionate cyber security enthusiast from India</h3>
+
+<!-- The second <img> tag was correctly formatted, just fixed a typo in the word "enthusiast" -->
 <img align="right" alt="Coding" width="400" src="https://ecard.link/content/card/animated_gif1780.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-m-samarth-cs&label=Profile%20views&color=0e75b6&style=flat" alt="i-m-samarth-cs" /> </p>
 
